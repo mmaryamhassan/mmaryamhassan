@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmaryamhassan
-- 👀 I’m interested in python programming
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently an undergraduate in Software Engineering at NED University.
 - 📫 How to reach me: www.linkedin.com/in/maryam-hassan-67595228b
 - ⚡ Fun fact: I constantly strive to learn and explore new technologies, programming languages, and frameworks.
